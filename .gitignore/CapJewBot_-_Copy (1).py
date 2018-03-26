@@ -107,4 +107,4 @@ async def on_message(message):
                             await client.send_message(message.channel, embed=embed)
 
 #bot's code
-client.run('')
+client.run('NDI3OTAzODc4OTYxNTYxNjIw.DZrUjQ.WQrKS9PW2JTQXPwx5KssvNr6Tso')
